@@ -15,6 +15,9 @@ hr{
     height: 0px;
 }
 
+img {
+     border-radius:50%;
+}
 img:hover{
     border-radius:100%;
 }
